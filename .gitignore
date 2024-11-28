@@ -1,3 +1,4 @@
 # Ignore the '.ipynb_checkpoints' directory
 .ipynb_checkpoints/
 .DS_Store
+Cars/
