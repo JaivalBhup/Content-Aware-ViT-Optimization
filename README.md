@@ -17,7 +17,6 @@ Vision Transformers rely on fixed-size input images (224x224), often resized usi
 - The method performed well for images with dispersed energy (e.g., multiple objects or textures) but struggled with concentrated energy regions.
 
 ### How to Run
-1. Clone the repository:
    ```bash
    git clone https://github.com/JaivalBhup/Content-Aware-ViT-Optimization.git
    cd Content-Aware-ViT-Optimization
