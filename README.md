@@ -12,10 +12,6 @@ Vision Transformers rely on fixed-size input images (224x224), often resized usi
 - **Train-Test Split**: 80% training, 20% testing
 - **Evaluation Metric**: Accuracy
 
-# Resizing Observation
-![Untitled Diagram drawio (2)](https://github.com/user-attachments/assets/c254df13-662a-4e77-9f2a-3113e5e9cf0b)
-
-
 ### How to Run
    ```bash
    git clone https://github.com/JaivalBhup/Content-Aware-ViT-Optimization.git
