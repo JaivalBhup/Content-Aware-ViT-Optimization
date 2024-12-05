@@ -13,12 +13,16 @@ Vision Transformers rely on fixed-size input images (224x224), often resized usi
 - **Evaluation Metric**: Accuracy
 
 ### How to Run
+Setup
    ```bash
    git clone https://github.com/JaivalBhup/Content-Aware-ViT-Optimization.git
    cd Content-Aware-ViT-Optimization
    pip install -r requirements.txt
    python -m notebook
    ```
+
+Download the Stanford Cars dataset (along with associated metadata file) from here: https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset 
+Run the data through SeamCarving.ipynb to generate Seam Carved datasets
 # Contributors
 
 - Samprith Kalakata (srk9068@nyu.edu) 
