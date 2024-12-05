@@ -12,9 +12,9 @@ Vision Transformers rely on fixed-size input images (224x224), often resized usi
 - **Train-Test Split**: 80% training, 20% testing
 - **Evaluation Metric**: Accuracy
 
-# Results
-- The optimized seam carving approach significantly reduced processing time (from ~136s to ~8s for resizing).
-- The method performed well for images with dispersed energy (e.g., multiple objects or textures) but struggled with concentrated energy regions.
+# Resizing Observation
+![Untitled Diagram drawio (2)](https://github.com/user-attachments/assets/c254df13-662a-4e77-9f2a-3113e5e9cf0b)
+
 
 ### How to Run
    ```bash
